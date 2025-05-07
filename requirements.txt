@@ -1,0 +1,2 @@
+streamlit==1.45.0
+tensorflow==2.19.0  # Specify the TensorFlow version you need
